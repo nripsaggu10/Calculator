@@ -3,7 +3,7 @@ package com.example.nscalc
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.example.rdcalc.databinding.ActivityMainBinding
+import com.example.nscalc.databinding.ActivityMainBinding
 import net.objecthunter.exp4j.ExpressionBuilder
 
 class MainActivity : AppCompatActivity() {
